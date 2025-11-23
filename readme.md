@@ -1,21 +1,32 @@
-# OS Lab Assignment 1
-## Process Management Using Python
+# OS Lab Assignment 1: Process Management
 
-### Student: [Your Name]
-### Course: ENCS351 Operating System
+## Course Information
+- **Course Code:** ENCS351
+- **Course Name:** Operating System
+- **Program:** B.Tech CSE
+- **Student:** Muskan Kumari
 
-### Files Included:
-- `process_management.py` - Main Python program
-- `output.txt` - Sample program output
-- `README.md` - This instruction file
+## Assignment Objectives
+- Simulate Linux process management operations using Python
+- Understand process creation, child-parent relationships
+- Explore zombie and orphan process scenarios
+- Inspect process information and set priorities
 
-### How to Run:
-1. Open `process_management.py` in Python IDLE
-2. Press F5 to run
-3. Or run in terminal: `python process_management.py`
+## Files Included
+- `process_management.py` - Main Python script with all tasks
+- `output.txt` - Sample program outputs
+- `README.md` - This documentation file
+- `sample_data.txt` - Generated sample data
+- `results.log` - Execution log
+- `config.ini` - Configuration file
 
-### Tasks Completed:
-- Process creation and information
-- System command execution
-- Process monitoring
-- File operations
+## Tasks Completed
+1. ✅ Process Creation Utility
+2. ✅ Command Execution using subprocess
+3. ✅ Zombie & Orphan Processes Explanation
+4. ✅ Process Information Inspection
+5. ✅ Process Priority Simulation
+
+## How to Run
+```bash
+python process_management.py
