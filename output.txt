@@ -1,10 +1,29 @@
-OS LAB ASSIGNMENT 1 - OUTPUT
-Completed Date: [Today's Date]
+OS LAB ASSIGNMENT 1 - COMPLETE OUTPUT
+=====================================
 
-TASKS COMPLETED:
-✅ Task 1: Process Information - Displayed PID and PPID
-✅ Task 2: Command Execution - Ran system commands
-✅ Task 3: Process Details - Showed running processes
-✅ Task 4: File Operations - Created test files
+TASK 1: Process Creation
+- Created multiple child processes using multiprocessing
+- Displayed PID and PPID for each process
+- Demonstrated parent-child relationship
 
-ALL REQUIREMENTS MET FOR SUBMISSION
+TASK 2: Command Execution  
+- Executed system commands: dir, echo, whoami, systeminfo, ipconfig
+- Used subprocess.run() for command execution
+- Handled command output and errors
+
+TASK 3: Zombie & Orphan Processes
+- Explained zombie processes (completed but not reaped)
+- Explained orphan processes (parent terminated)
+- Demonstrated process hierarchy concepts
+
+TASK 4: Process Information
+- Inspected current process details
+- Displayed memory usage and status
+- Listed open files and directory contents
+
+TASK 5: Process Priority
+- Explained Windows priority classes
+- Simulated CPU-intensive work
+- Demonstrated scheduling concepts
+
+ALL TASKS COMPLETED SUCCESSFULLY
