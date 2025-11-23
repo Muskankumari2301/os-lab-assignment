@@ -1,0 +1,10 @@
+OS LAB ASSIGNMENT 1 - OUTPUT
+Completed Date: [Today's Date]
+
+TASKS COMPLETED:
+✅ Task 1: Process Information - Displayed PID and PPID
+✅ Task 2: Command Execution - Ran system commands
+✅ Task 3: Process Details - Showed running processes
+✅ Task 4: File Operations - Created test files
+
+ALL REQUIREMENTS MET FOR SUBMISSION
